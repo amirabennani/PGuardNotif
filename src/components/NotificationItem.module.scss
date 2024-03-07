@@ -1,0 +1,17 @@
+.notificationItem {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.message {
+    flex-grow: 1;
+    margin-right: 10px; /* Espace entre le message et l'image */
+    /* Autres styles pour le message si nécessaire */
+}
+
+.imageContainer {
+    width: 25px; /* Largeur fixe de la partie contenant l'image */
+    /* Autres styles pour la partie contenant l'image si nécessaire */
+}

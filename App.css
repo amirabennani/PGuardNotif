@@ -1,0 +1,17 @@
+/* App.css */
+
+/* Style personnalisé pour la barre d'onglets */
+.custom-tab-bar {
+  background-color: #f0f0f0; /* Couleur de fond de la barre d'onglets */
+  border-top: 1px solid #ccc; /* Bordure supérieure de la barre d'onglets */
+}
+
+/* Style personnalisé pour les boutons d'onglet */
+.custom-tab-button {
+  color: #00807F; /* Couleur du texte des boutons d'onglet */
+}
+
+/* Style pour le texte actif des boutons d'onglet */
+.custom-tab-button--selected {
+  color: red; /* Couleur du texte des boutons d'onglet actifs */
+}
